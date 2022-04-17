@@ -1,8 +1,4 @@
-⭐️ From [JeanCarlos911](https://github.com/JeanCarlos911)
-
-<div align="center"><img alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" /></div>
-
-
+⭐️ From [AcSoliz](https://github.com/AcSoliz)
 
 Welcome to my GitHub! I'm Alan, passionate about programming. When I'm not studying or programming, I'm doing some of my favorite activities, like training or dancing some tanguitos.
 I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. .

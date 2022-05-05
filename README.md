@@ -24,7 +24,7 @@ I love doing useful and fun things with programming, listening to different type
 ### 🛠 Interested in:
 - Desktop, mobile, fronted, devOps, backEnd.
 
-### Contact Information
--Linkedin: https://www.linkedin.com/in/acsoliz/
--Email:acsoliz@outlook.com
--Phone: +34622520386
+### 📲 Contact Information
+- Linkedin: https://www.linkedin.com/in/acsoliz/
+- Email: acsoliz@outlook.com
+- Phone: +34622520386

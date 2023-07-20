@@ -4,25 +4,26 @@ Welcome to my GitHub! I'm Alan, passionate about programming. When I'm not study
 I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. .
 
 ### ✔️ I'm currently learning
-- React-redux
-- JavaScript)
+- React-redux-React-native
+- JavaScript
 - Node
+- TypeScript
 
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
-### 💡 Goals for 2022:
+### 💡 Goals for 2023:
 - Finish my first app on android and publish it on play store
-- Learn the basics of TypeScript.
-- Become skilled in NextJs and React Native
+- Brush up the basics of Java.
+- Become skilled in NextJs
 - Grow as a person
 
 ### ⚡ Relevant achievement
-- The last months I took the best course and training to program as FullStack
+- Last year I was part of a great deal project, using the latest technologies and with a great team of professionals. 
 
 ### 🛠 Interested in:
-- Desktop, mobile, fronted, devOps, backEnd.
+- Desktop, mobile, fronted, backEnd and FullStack
 
 ### 📲 Contact Information
 - Linkedin: https://www.linkedin.com/in/acsoliz/

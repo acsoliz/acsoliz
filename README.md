@@ -3,11 +3,12 @@
 Welcome to my GitHub! I'm Alan, passionate about programming. When I'm not studying or programming, I'm doing some of my favorite activities, like training or dancing some tanguitos.
 I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. .
 
-### ✔️ I'm currently learning
-- React-redux-React-native
+### ✔️ I'm currently working with 
+- React-native-React-redux
 - JavaScript
 - Node
 - TypeScript
+- Python
 
 
 ### 😍 What i like to do:

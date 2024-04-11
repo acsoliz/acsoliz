@@ -12,13 +12,7 @@ I love doing useful and fun things with programming, listening to different type
 
 ### 😍 What i like to do:
 - I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
-
-### 💡 Goals for 2023:
-- Finish my first app on android and publish it on play store
-- Brush up the basics of Java.
-- Become skilled in NextJs
-- Grow as a person
-
+  
 ### ⚡ Relevant achievement
 - Last year I was part of a great deal project, using the latest technologies and with a great team of professionals. 
 

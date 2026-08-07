@@ -5,7 +5,7 @@ I love doing useful and fun things with programming, listening to different type
 
 ### ✔️ I'm currently working with 
 - JavaScript / TypeScript / Rust 
-- React-native-React-redux-Vue-Pinia
+- Frameworks: React-native-React-redux-Vue-Pinia
 - Node
 - Python
 

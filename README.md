@@ -17,7 +17,7 @@ I love doing useful and fun things with programming, listening to different type
 - Last year I was part of a great deal project, using the latest technologies and with a great team of professionals. 
 
 ### 🛠 Interested in:
-- Desktop, mobile, fronted, backEnd and FullStack
+- Linux, Windows, Android
 
 ### 📲 Contact Information
 - Linkedin: https://www.linkedin.com/in/acsoliz/

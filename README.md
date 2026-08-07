@@ -17,7 +17,7 @@ I love doing useful and fun things with programming, listening to different type
 - Last year I was part of a great deal project, using the latest technologies and with a great team of professionals. 
 
 ### 🛠 Interested in:
-- Linux, Windows, Android
+- Web, Linux, Windows, Android
 
 ### 📲 Contact Information
 - Linkedin: https://www.linkedin.com/in/acsoliz/

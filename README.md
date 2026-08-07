@@ -4,10 +4,9 @@ Welcome to my GitHub! I'm Alan, passionate about programming. When I'm not study
 I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more. .
 
 ### ✔️ I'm currently working with 
-- React-native-React-redux
-- JavaScript
+- JavaScript / TypeScript / Rust 
+- React-native-React-redux-Vue-Pinia
 - Node
-- TypeScript
 - Python
 
 
